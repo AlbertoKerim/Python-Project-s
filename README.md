@@ -1,4 +1,4 @@
 # Python-Project-s
 All of my python programmes I've maid
 
-All rights reserved to Ačberto Kerim
+All rights reserved to Alberto Kerim
