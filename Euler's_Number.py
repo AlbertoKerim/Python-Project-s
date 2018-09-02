@@ -1,3 +1,5 @@
+#Program that calculates the first 1000 digits of number e
+
 from math import factorial
 from decimal import Decimal,getcontext
 
