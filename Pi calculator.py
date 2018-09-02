@@ -1,3 +1,5 @@
+'''Program that calculates the first 1000 digits of number pi and saves it in .txt file'''
+
 from math import factorial   #We imported factorial because we will need it
 from decimal import getcontext, Decimal
 
