@@ -1,3 +1,6 @@
+#Program that makes a llist of 1000 integers from 0 to 1000 and then buuble sorts it
+
+
 from random import randint
 
 list = []
