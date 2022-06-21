@@ -1,2 +1,2 @@
 # Python-Project-s
-All of my python programmes I've maid
+All of my python programmes I've made
